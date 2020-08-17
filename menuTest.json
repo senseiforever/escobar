@@ -20,7 +20,7 @@
 		"active": true,
 		"show_banner": false,
 		"banner_image": "",
-		"bannners_to_show": []
+		"bannners_to_show": [9]
 	}, {
 		"app_name": "Food Stickers",
 		"google_play_id": "com.sensei.food",
