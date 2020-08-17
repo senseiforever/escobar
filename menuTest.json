@@ -1,0 +1,155 @@
+{
+	"new_items": ["Animamemes stickers","Animator stickers","Lovers animated stickers","Love Animated 2020 Stickers","Memes animated 2020 stickers"],
+	"items": [{
+		"app_name": "Stickers para ligar",
+		"google_play_id": "com.sensei.ligar",
+		"url_icon": "ic_ligar.png",
+		"id": 1,
+		"order": 10,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+
+	}, {
+		"app_name": "Stickers Escobar",
+		"google_play_id": "com.sensei.escobar",
+		"url_icon": "ic_escobar.png",
+		"id": 2,
+		"order": 20,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Food Stickers",
+		"google_play_id": "com.sensei.food",
+		"url_icon": "ic_food.png",
+		"id": 3,
+		"order": 30,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Stickers Colombia",
+		"google_play_id": "com.sensei.colombia",
+		"url_icon": "ic_colombia.png",
+		"id": 4,
+		"order": 40,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Stickers de Frases",
+		"google_play_id": "com.sensei.frases",
+		"url_icon": "ic_frases.png",
+		"id": 5,
+		"order": 50,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Stickers España",
+		"google_play_id": "com.sensei.spain",
+		"url_icon": "ic_spain.png",
+		"id": 6,
+		"order": 60,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Extreme Sports Stickers",
+		"google_play_id": "com.sensei.xgames",
+		"url_icon": "ic_extreme.png",
+		"id": 7,
+		"order": 70,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "banner_loversanimated.jpg",
+		"bannners_to_show": [10,12,13,14,15]
+	}, {
+		"app_name": "Flirt Stickers",
+		"google_play_id": "com.sensei.flirt",
+		"url_icon": "ic_flirt.png",
+		"id": 8,
+		"order": 80,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+	}, {
+		"app_name": "New Memes 2019 stickers",
+		"google_play_id": "com.sensei.memes",
+		"url_icon": "ic_memes.png",
+		"id": 9,
+		"order": 1,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "banner_memes.jpg",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Memes animated 2020 stickers",
+		"google_play_id": "com.sensei.memesanimated",
+		"url_icon": "ic_memes_animated.png",
+		"id": 10,
+		"order": 1,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "banner_memesanimated2020stickers.jpg",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Memes de Gatos Animados 2020",
+		"google_play_id": "com.sensei.cats",
+		"url_icon": "ic_cats.png",
+		"id": 11,
+		"order": 1,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "banner_gatosanimados.jpg",
+		"bannners_to_show": [10,12,13,14,15]
+	}, {
+		"app_name": "Love Animated 2020 Stickers",
+		"google_play_id": "com.sensei.love",
+		"url_icon": "ic_love.png",
+		"id": 12,
+		"order": 1,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "banner_loveanimated2020.jpg",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Lovers animated stickers",
+		"google_play_id": "com.sensei.lovers",
+		"url_icon": "ic_lovers.png",
+		"id": 13,
+		"order": 1,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "banner_loversanimated.jpg",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Animator stickers",
+		"google_play_id": "com.sensei.animator",
+		"url_icon": "ic_animator.png",
+		"id": 14,
+		"order": 1,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "banner_animatormemes.jpg",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Animamemes stickers",
+		"google_play_id": "com.sensei.animamemes",
+		"url_icon": "ic_animamemes.png",
+		"id": 15,
+		"order": 1,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "banner_animamemes.jpg",
+		"bannners_to_show": []
+	}]
+}

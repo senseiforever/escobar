@@ -1,0 +1,105 @@
+{
+	"new_items": [],
+	"items": [{
+		"app_name": "Stickers para ligar",
+		"google_play_id": "com.sensei.ligar",
+		"url_icon": "ic_ligar.png",
+		"id": 1,
+		"order": 10,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+
+	}, {
+		"app_name": "Stickers Escobar",
+		"google_play_id": "com.sensei.escobar",
+		"url_icon": "ic_escobar.png",
+		"id": 2,
+		"order": 20,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Food Stickers",
+		"google_play_id": "com.sensei.food",
+		"url_icon": "ic_food.png",
+		"id": 3,
+		"order": 30,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Stickers Colombia",
+		"google_play_id": "com.sensei.colombia",
+		"url_icon": "ic_colombia.png",
+		"id": 4,
+		"order": 40,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Stickers de Frases",
+		"google_play_id": "com.sensei.frases",
+		"url_icon": "ic_frases.png",
+		"id": 5,
+		"order": 50,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Stickers España",
+		"google_play_id": "com.sensei.spain",
+		"url_icon": "ic_spain.png",
+		"id": 6,
+		"order": 60,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Extreme Sports Stickers",
+		"google_play_id": "com.sensei.xgames",
+		"url_icon": "ic_extreme.png",
+		"id": 7,
+		"order": 70,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Flirt Stickers",
+		"google_play_id": "com.sensei.flirt",
+		"url_icon": "ic_flirt.png",
+		"id": 8,
+		"order": 80,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+	}, {
+		"app_name": "New Memes 2019 stickers",
+		"google_play_id": "com.sensei.memes",
+		"url_icon": "ic_memes.png",
+		"id": 9,
+		"order": 1,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "",
+		"bannners_to_show": []
+	}, {
+		"app_name": "Memes animated 2020 stickers",
+		"google_play_id": "com.sensei.memesanimated",
+		"url_icon": "ic_memes_animated.png",
+		"id": 10,
+		"order": 1,
+		"active": true,
+		"show_banner": false,
+		"banner_image": "banner_memesanimated2020stickers.jpg",
+		"bannners_to_show": []
+	}]
+}
